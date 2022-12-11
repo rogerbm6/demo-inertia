@@ -1,6 +1,6 @@
 <template>
 
-    <nav class="ml-6">
+    <nav>
         <ul class="flex list-disc space-x-4 list-inside">
             <li>
                 <NavLink
